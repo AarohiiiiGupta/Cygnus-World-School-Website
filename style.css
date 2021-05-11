@@ -1,0 +1,98 @@
+#imagecygnus {
+    width: 100%;
+}
+
+body {
+    text-align: center;
+}
+
+.about_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.about_mainDiv img {
+    width: 70%;
+}
+
+.about_mainDiv hr {
+    width: 230px;
+}
+
+.about_mainDiv h5,
+.about_mainDiv p {
+    margin-left: 20px;
+}
+
+.reviews_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.reviews_head i {
+    float: right;
+}
+
+.reviews_text span {
+    color: greenyellow;
+
+}
+
+.quotes_li {
+    margin-top: 15px;
+    border-radius: 30px;
+}
+
+.quotes_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.quotes_li img {
+    border-radius: 25px;
+}
+
+.quotes_li p {
+    margin-top: 10px;
+}
+
+#mistake {
+    width: 200px;
+}
+
+#right {
+    width: 200px;
+}
+
+#more {
+    width: 200px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+
+#cnl {
+    margin-top: 300px;
+}
